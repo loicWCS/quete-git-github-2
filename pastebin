@@ -1,0 +1,10 @@
+$ git log -p
+commit 3061b22180ebaa219766ef70e9c028ed9074b86d (HEAD -> master)
+Author: loicWCS <loic.lebon.wcs@gmail.com>
+Date:   Mon Apr 11 11:38:58 2022 +0200
+
+    At Wild Code School, we code without shoes.
+
+diff --git a/wild.html b/wild.html
+new file mode 100644
+index 0000000..e69de29
